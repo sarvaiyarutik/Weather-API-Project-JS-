@@ -12,7 +12,7 @@ A simple and responsive Weather App built using **HTML**, **CSS**, and **JavaScr
 
 ## 📸 Preview
 
-![Weather App Preview](https://via.placeholder.com/900x450?text=Weather+API+Project)
+vide Link : https://drive.google.com/file/d/1nrzvYt9gmqgGp4WXQyKotmOU5kxBCJE4/view?usp=sharing
 
 ---
 
